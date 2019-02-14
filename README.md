@@ -6,6 +6,19 @@ Project Python [Python Pro](http://python.pro.br)
 
 Suportada versão de Python 3
 
+Para instalar:
+
+'''console
+pipenv shell
+pipenv install
+pipenv install --dev 
+'''
+Para conferir qualidade do código:
+
+'''console
+flake8
+'''
+
 Tópicos a serem abordados:
 1. Git
 2. Virtualenv
