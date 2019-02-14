@@ -3,6 +3,7 @@ Pyxis is a small and faint constellation in the southern sky.
 
 
 Project Python [Python Pro](http://python.pro.br)
+[![Build Status](https://travis-ci.org/jr1os/Pyxis.svg?branch=master)](https://travis-ci.org/jr1os/Pyxis)
 
 Suportada versão de Python 3
 
