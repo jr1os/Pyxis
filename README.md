@@ -6,6 +6,8 @@ Project Python [Python Pro](http://python.pro.br)
 [![Build Status](https://travis-ci.org/jr1os/Pyxis.svg?branch=master)](https://travis-ci.org/jr1os/Pyxis)
 [![Updates](https://pyup.io/repos/github/jr1os/Pyxis/shield.svg)](https://pyup.io/repos/github/jr1os/Pyxis/)
 [![Python 3](https://pyup.io/repos/github/jr1os/Pyxis/python-3-shield.svg)](https://pyup.io/repos/github/jr1os/Pyxis/)
+[![codecov](https://codecov.io/gh/jr1os/Pyxis/branch/master/graph/badge.svg)](https://codecov.io/gh/jr1os/Pyxis)
+
 
 
 Suportada versão de Python 3
