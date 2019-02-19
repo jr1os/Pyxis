@@ -8,7 +8,6 @@ Project Python [Python Pro](http://python.pro.br)
 [![Python 3](https://pyup.io/repos/github/jr1os/Pyxis/python-3-shield.svg)](https://pyup.io/repos/github/jr1os/Pyxis/)
 
 
-
 Suportada versão de Python 3
 
 Para instalar:
